@@ -6,11 +6,11 @@ Here `cra` implemented the method used in S. Steinhauser, N. Kurzawa, R. Eils, C
 
 # Applications
 
-## How many differential expressed genes (DEGs) can be explained by differential bindings of translation factor (TF).
+## How many differential expressed genes (DEGs) can be explained by differential bindings of translation factor (TF)
 
 ### Usage
 
-#### Inputs
+#### Input
 
 #### Output
 
